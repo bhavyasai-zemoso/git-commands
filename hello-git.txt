@@ -2,5 +2,4 @@ Welcome to remote repo
 Implementing basic git commands
 Git is distributed version control system
 End of remote repo file
-Ending again
 Thank you!!
